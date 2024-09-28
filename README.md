@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi There, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Sarthak Madhamshettiwar</h1>
-<h3 align="center">I'm exploring Backend Dev, Mahchine Learning/Deep Learning, NLP and LLMs(GenAI)</h3>
+<h3 align="center">I'm exploring Backend Dev, Machine Learning, Deep Learning, NLP and LLMs(GenAI)</h3>
 
 ## 🙋‍♂️ About Me
 
